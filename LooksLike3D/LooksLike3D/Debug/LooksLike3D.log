@@ -1,0 +1,5 @@
+﻿  LooksLike3D.cpp
+C:\Users\Miste\source\repos\LooksLike3D\LooksLike3D\LooksLike3D.cpp(20,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Miste\source\repos\LooksLike3D\LooksLike3D\LooksLike3D.cpp(125,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Miste\source\repos\LooksLike3D\LooksLike3D\LooksLike3D.cpp(136,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  LooksLike3D.vcxproj -> C:\Users\Miste\source\repos\LooksLike3D\Debug\LooksLike3D.exe
